@@ -1,4 +1,4 @@
 
 <Version: 0.02>
-/data/test.zip https://wordpress.org/latest.zip
+/data/latest.zip https://wordpress.org/latest.zip
 <End of Version>
